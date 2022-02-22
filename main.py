@@ -23,7 +23,7 @@ bughunter0 = Client(
 
 @bughunter0.on_message(filters.command(["start"]))
 async def start(bot, update):
- txt = await update.reply_text("ചത്തോന്ന് അറിയാൻ വന്നതാവും ല്ലേ !!")
+ txt = await update.reply_text("Hello. Type Anything. You will get your download and upload Speed. Bot by @jetbots")
 
 @bughunter0.on_message(filters.private)
 async def download_upload(bot, message):

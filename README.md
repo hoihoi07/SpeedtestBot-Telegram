@@ -16,6 +16,8 @@ Run python 3 main.py
 # On Heroku
 
  Frok This repository, ADD heroku deploy button !!
+ 
+ [heroku deploy](https://heroku.com/deploy?tamplate=https://github.com/hoihoi07/SpeedtestBot-Telegram)
 
 <A href="https://github.com/bughunter0"><img src="https://img.shields.io/github/forks/bughunter0/SpeedtestBot-Telegram?style=for-the-badge" alt=fork> 
 <A href="https://github.com/bughunter0"><img src="https://img.shields.io/github/stars/bughunter0/SpeedtestBot-Telegram?style=for-the-badge" alt=star> 
